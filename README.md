@@ -14,7 +14,7 @@ Here are the services source codes:
 
 Documentation:
 
-- [https://doc.netuno.org/pt/docs/academy/server/services/xls](XLS resource.)
+- [XLS resource](https://doc.netuno.org/pt/docs/academy/server/services/xls).
 
 ## Run the Service and Open the File Automatically
 
